@@ -1,7 +1,7 @@
 ## Hello World
 
 ### App Description
-`TODO://` Add app description
+An introductory application into the android programing and a prework for CodePath course
 
 ### App Walk-though
 <img src="https://github.com/Alenfor/Hello_World_Android/blob/main/HelloWorldAndroid.gif" width=''><br>
